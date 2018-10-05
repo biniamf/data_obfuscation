@@ -1,0 +1,3 @@
+chrome.deb
+eclipse.tar.gz
+skype.deb
