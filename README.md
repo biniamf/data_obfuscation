@@ -5,3 +5,5 @@ Software obfuscation can be applied either to code or to data. In this study we 
 We improved the level of obscurity by applying obfuscation not just to sensitive variables, but also to those variables that are near and related to these sensitive variables. We propose a distance metric based on data-dependency among variables. We obfuscate also those variable whose distance from a sensitive variable is shorter than a given threshold. Depending on the threshold, we obtain different configurations of variables to obfuscate, based on their distance from the initial sensitive variable.
 
 Obfuscating transformation and metric computation have been implemented in tool prototypes and evaluated empirically on real source codes. We measured memory and runtime overhead due to obfuscation when the distance threshold increases and data obfuscation is applied on more and more variables.
+
+https://ieeexplore.ieee.org/document/7174809
