@@ -1,4 +1,4 @@
-## Assessment of Data Obfuscation with Residue Number Coding
+## Data Obfuscation with Residue Number Coding for C/C++ Codes
 
 A major threats to software security is malicious code tampering, where an attacker modifies the original program to make it work in a way that was not intended by the developer. Software obfuscation was proposed as a technique to mitigate the problem of malicious code tampering. Obfuscation is intended to protect the software from unauthorized modification by making code more difficult to understand to the potential attacker, and consequently more difficult and expensive to alter.
 
